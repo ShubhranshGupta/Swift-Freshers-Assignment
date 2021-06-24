@@ -1,5 +1,7 @@
-import Foundation
+// @author - Shubhransh Gupta
+// 23- June- 2021
 
+import Foundation
 class User {
     var name : String
     var address : String
